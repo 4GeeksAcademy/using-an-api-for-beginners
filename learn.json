@@ -1,0 +1,48 @@
+{
+  "slug": "using-an-api-for-beginners",
+  "duration": 8,
+  "difficulty": "easy",
+  "title": {
+    "us": "Using an API for Beginners",
+    "es": "Usando una API para Principiantes"
+  },
+  "description": {
+    "us": "Practice beginner-friendly GET requests and nested JSON navigation using JavaScript.",
+    "es": "Practica peticiones GET para principiantes y navegacion de JSON anidado usando JavaScript."
+  },
+  "projectType": "tutorial",
+  "template_url": "self",
+  "repository": "https://github.com/4GeeksAcademy/using-an-api-for-beginners",
+  "autoPlay": true,
+  "gitpod": true,
+  "technologies": [
+    "javascript",
+    "json",
+    "rest api",
+    "fetch",
+    "http",
+    "get requests"
+  ],
+  "videoSolutions": false,
+  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+  "graded": true,
+  "grading": "isolated",
+  "localhostOnly": true,
+  "editor": {
+    "version": "5.0",
+    "agent": "vscode",
+    "mode": "extension"
+  },
+  "entries": {
+    "node": "app.js"
+  },
+  "delivery": {
+    "formats": [
+      "no_delivery"
+    ]
+  },
+  "translations": [
+    "es",
+    "en"
+  ]
+}

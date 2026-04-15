@@ -1,0 +1,11 @@
+{
+  "name": "using-an-api-for-beginners",
+  "version": "1.0.0",
+  "description": "LearnPack incremental exercises to practice GET requests and JSON navigation.",
+  "type": "commonjs",
+  "scripts": {
+    "api": "node api/server.js",
+    "test:sample": "jest \"exercises/01-first-get/test.js\" --runInBand",
+    "setup:learnpack": "npm i @learnpack/learnpack@5.0.13 -g && learnpack plugins:install @learnpack/node@1.1.15"
+  }
+}
