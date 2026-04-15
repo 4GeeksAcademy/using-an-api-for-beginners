@@ -1,7 +1,7 @@
 async function solve(baseUrl) {
   const response = await fetch(`${baseUrl}/items`);
-  const data = await response.json();
-  return data.data.count;
+  const result = await response.json();
+  return result.data.count;
 }
 
 module.exports = solve;
