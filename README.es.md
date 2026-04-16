@@ -1,7 +1,8 @@
 # Usando una API para Principiantes
 
 <!-- hide -->
-> Por [@ehiber](https://github.com/ehibe) y [colaboradores](https://github.com/4GeeksAcademy/using-an-api-for-beginners/graphs/contributors) de [4Geeks Academy](https://4geeksacademy.com/)
+
+> Por [@ehiber](https://github.com/ehiber) y [colaboradores](https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners/graphs/contributors) de [4Geeks Academy](https://4geeksacademy.com/)
 
 _Estas instrucciones estan [disponibles en ingles](./README.md)._
 
@@ -9,7 +10,7 @@ Este LearnPack ayuda a practicar consultas a APIs y navegacion de JSON con ejerc
 
 ## Antes de comenzar
 
-Puedes abrir este proyecto en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/using-an-api-for-beginners) o [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/using-an-api-for-beginners.git).
+Puedes abrir este proyecto en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/getting-data-from-apis-for-beginners) o [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners.git).
 
 > Una vez abierto VS Code, LearnPack puede iniciar automaticamente. Si no ocurre, ejecuta `learnpack start` desde la carpeta que contiene `learn.json`.
 > Si en Codespaces aparece `bash: learnpack: command not found`, reconstruye o recrea el contenedor para que `.devcontainer` instale LearnPack, o ejecuta `npm install -g @learnpack/learnpack && learnpack plugins:install @learnpack/node@1.1.15`.
@@ -80,12 +81,6 @@ Este tutorial ensena a consultar una API con peticiones `GET` y extraer valores 
 - No requiere autenticacion.
 - Postman o Thunder Client pueden ayudarte a inspeccionar las respuestas mientras resuelves los ejercicios.
 
-## Colaboradores
+---
 
-Gracias a todas las personas que mejoran estos ejercicios con correcciones, cambios de redaccion, nuevos tests y mejores explicaciones para estudiantes.
-
-Todo tipo de contribucion es bienvenido. Si encuentras un problema, puedes abrir un pull request o contribuir directamente.
-
-Este proyecto sigue el espiritu de la especificacion [all-contributors](https://allcontributors.org/).
-
-Este y muchos otros ejercicios fueron creados para estudiantes de [4Geeks Academy](https://4geeksacademy.com/). Puedes conocer mas sobre el [programa Full Stack Developer](https://4geeksacademy.com/us/coding-bootcamp) y otras experiencias de aprendizaje de 4Geeks.
+Este y muchos otros proyectos son construidos por estudiantes como parte de los [Coding Bootcamps](https://4geeksacademy.com/) de [4Geeks Academy](https://4geeksacademy.com/). Por [@ehiber](https://github.com/ehiber) y [otros contribuidores](https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners/graphs/contributors). Encuentra más acerca de [Ingeniería de IA](https://4geeksacademy.com/es/coding-bootcamps/ingenieria-ia).

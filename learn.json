@@ -1,10 +1,10 @@
 {
-  "slug": "using-an-api-for-beginners",
+  "slug": "getting-data-from-apis-for-beginners",
   "duration": 8,
   "difficulty": "easy",
   "title": {
-    "us": "Using an API for Beginners",
-    "es": "Usando una API para Principiantes"
+    "us": "Getting data from APIs for Beginners",
+    "es": "Obteniendo datos de APIs para Principiantes"
   },
   "description": {
     "us": "Practice beginner-friendly GET requests and nested JSON navigation using JavaScript.",
@@ -12,7 +12,18 @@
   },
   "projectType": "tutorial",
   "template_url": "self",
-  "repository": "https://github.com/4GeeksAcademy/using-an-api-for-beginners",
+  "repository": "https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners",
+  "preview": "https://raw.githubusercontent.com/4GeeksAcademy/getting-data-from-apis-for-beginners/main/.learn/preview.png",
+  "sharing": [
+    {
+      "en": "I just completed Using an API for Beginners with LearnPack @4GeeksAcademy. Check it out: https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners #AIEngineering #LearnPack #4GeeksAcademy #javascript #json #restapi",
+      "es": "Acabo de completar Usando una API para Principiantes con LearnPack @4GeeksAcademy. Mira el proyecto: https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners #AIEngineering #LearnPack #4GeeksAcademy #javascript #json #restapi"
+    },
+    {
+      "en": "Built and shipped: Using an API for Beginners. Learning by building with @4GeeksAcademy. https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners #AIEngineering #LearnPack #4GeeksAcademy #javascript #json #restapi",
+      "es": "Construido y publicado: Usando una API para Principiantes. Aprendiendo con proyectos reales en @4GeeksAcademy. https://github.com/4GeeksAcademy/getting-data-from-apis-for-beginners #AIEngineering #LearnPack #4GeeksAcademy #javascript #json #restapi"
+    }
+  ],
   "autoPlay": true,
   "gitpod": true,
   "technologies": [
@@ -37,12 +48,7 @@
     "node": "app.js"
   },
   "delivery": {
-    "formats": [
-      "no_delivery"
-    ]
+    "formats": ["no_delivery"]
   },
-  "translations": [
-    "es",
-    "en"
-  ]
+  "translations": ["es", "en"]
 }

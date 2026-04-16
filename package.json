@@ -1,5 +1,5 @@
 {
-  "name": "using-an-api-for-beginners",
+  "name": "getting-data-from-apis-for-beginners",
   "version": "1.0.0",
   "description": "LearnPack incremental exercises to practice GET requests and JSON navigation.",
   "type": "commonjs",
